@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/OOPS_class_point.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/variable.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OOPS_class_point">
+  <component name="RunManager" selected="Application.variable">
     <configuration name="OOPS_class_point" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="scalaForBigenner.OOPS_class_point" />
       <module name="scala_end_to_end" />
@@ -91,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="variable" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.variable" />
+      <module name="scala_end_to_end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaForBigenner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.variable" />
         <item itemvalue="Application.OOPS_class_point" />
         <item itemvalue="Application.scalaForBigenner.print_hello_world" />
         <item itemvalue="Application.print_hello_world" />
