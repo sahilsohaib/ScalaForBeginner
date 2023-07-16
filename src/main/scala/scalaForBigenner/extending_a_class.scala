@@ -1,6 +1,6 @@
 package scalaForBigenner
 
-object OOPS_class_point {
+object extending_a_class {
   def main(args: Array[String]): Unit = {
     class point(val xc: Int, val yc: Int) {
       var x: Int = xc
