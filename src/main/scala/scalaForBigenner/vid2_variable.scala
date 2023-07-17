@@ -1,6 +1,6 @@
 package scalaForBigenner
 
-object variable {
+object vid2_variable {
   def main(args: Array[String]): Unit = {
     /*
     var myVar :Int =70
