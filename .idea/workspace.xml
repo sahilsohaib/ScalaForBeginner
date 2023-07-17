@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid4_private_members.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid4_protected_members.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid5_if_else_else_if.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid6_for_loop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid6_for_loop_in_condition.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid1_print_hello_world.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid2_variable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid3_extending_a_class$demo$1$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid3_extending_a_class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_private_members$outer$inner$innermost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_private_members$outer$inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_private_members$outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_private_members.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_protected_members$Super$Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_protected_members$Super.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_protected_members$other.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid4_protected_members.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid5_if_else_else_if$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid5_if_else_else_if.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid6_for_loop$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid6_for_loop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid6_for_loop_in_condition$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid6_for_loop_in_condition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid7_do_while_loop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid8_while_loop.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/extending_a_class.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid3_extending_a_class.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/point.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid3_point.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/print_hello_world.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid1_print_hello_world.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/variable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid2_variable.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo1$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo2$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/extending_a_class$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid3_extending_a_class$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/extending_a_class$Location$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid3_extending_a_class$Location$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/extending_a_class$demo$1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/extending_a_class$point$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid3_extending_a_class$point$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/extending_a_class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/print_hello_world$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid1_print_hello_world$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/print_hello_world.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/variable$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid2_variable$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/variable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,22 +52,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.vid6_for_loop_in_condition">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.Demo1" />
-      <module name="scala_end_to_end" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scalaForBigenner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.Demo2" />
+  <component name="RunManager" selected="Application.vid8_while_loop">
+    <configuration name="do_while_loop" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.do_while_loop" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vid8_while_loop" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid8_while_loop" />
+      <module name="scala_end_to_end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaForBigenner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vid8_while_loop" />
+        <item itemvalue="Application.do_while_loop" />
         <item itemvalue="Application.vid6_for_loop_in_condition" />
         <item itemvalue="Application.for_loop" />
         <item itemvalue="Application.if_else_else_if" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
