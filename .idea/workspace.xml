@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="function">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid11_array.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid11_nested_function$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/vid11_nested_function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid11_array.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid11_array.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
