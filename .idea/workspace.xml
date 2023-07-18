@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="" />
+    <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid10_function.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid9_break_statement.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid9_break_statement.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.vid10_function">
+  <component name="RunManager" selected="Application.vid9_break_statement">
     <configuration name="break_statement" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="scalaForBigenner.break_statement" />
       <module name="scala_end_to_end" />
@@ -62,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="do_while_loop" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.do_while_loop" />
+    <configuration name="nested_function" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.nested_function" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.vid10_function" />
         <item itemvalue="Application.vid9_break_statement" />
+        <item itemvalue="Application.nested_function" />
+        <item itemvalue="Application.vid10_function" />
         <item itemvalue="Application.break_statement" />
         <item itemvalue="Application.vid8_while_loop" />
-        <item itemvalue="Application.do_while_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -145,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="function" />
+    <option name="LAST_COMMIT_MESSAGE" value="function" />
   </component>
 </project>
