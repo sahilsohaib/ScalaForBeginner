@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid10_function.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid9_break_statement.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid9_break_statement.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid11_nested_function.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid10_nested_function.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,6 +1,6 @@
 package scalaForBigenner
 
-object vid11_nested_function {
+object vid10_nested_function {
   def main(args: Array[String]): Unit = {
     println(factorial(0))
     println(factorial(1))
