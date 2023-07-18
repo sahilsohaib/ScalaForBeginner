@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid7_do_while_loop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid8_while_loop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid9_break_statement.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid9_break_statement_own.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,35 +52,22 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.vid8_while_loop">
+  <component name="RunManager" selected="Application.vid9_break_statement">
+    <configuration name="break_statement" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.break_statement" />
+      <module name="scala_end_to_end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaForBigenner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="do_while_loop" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="scalaForBigenner.do_while_loop" />
-      <module name="scala_end_to_end" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scalaForBigenner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="for_loop" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.for_loop" />
-      <module name="scala_end_to_end" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scalaForBigenner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="if_else_else_if" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.if_else_else_if" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vid9_break_statement" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid9_break_statement" />
+      <module name="scala_end_to_end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaForBigenner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vid9_break_statement" />
+        <item itemvalue="Application.break_statement" />
         <item itemvalue="Application.vid8_while_loop" />
         <item itemvalue="Application.do_while_loop" />
         <item itemvalue="Application.vid6_for_loop_in_condition" />
-        <item itemvalue="Application.for_loop" />
-        <item itemvalue="Application.if_else_else_if" />
       </list>
     </recent_temporary>
   </component>
