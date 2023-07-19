@@ -2,7 +2,7 @@ import Array._
 package scalaForBigenner{
 
 
-object multidimentional_array_Matrix {
+object vid12_multidimentional_array_Matrix {
   def main(args: Array[String]): Unit = {
     var myMatrix = ofDim[Int](3, 3)
 
