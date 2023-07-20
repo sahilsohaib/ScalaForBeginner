@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="function" />
+    <list default="true" id="bc288d06-3c96-4303-a6a0-f41b32d971a9" name="Changes" comment="function">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid13_concat_array.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid14_Range_array.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid15_List.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid16_more_on_list.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid17_map.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalaForBigenner/vid17_map_second_part.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/multidimentional_array_Matrix$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/scalaForBigenner/multidimentional_array_Matrix.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,16 +58,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.scalaForBigenner.multidimentional_array_Matrix">
-    <configuration name="multidimentional_array_Matrix" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="multidimentional_array_Matrix" />
-      <module name="scala_end_to_end" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nested_function" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.nested_function" />
+  <component name="RunManager" selected="Application.vid17_map_second_part">
+    <configuration name="vid14_Range_array" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid14_Range_array" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scalaForBigenner.multidimentional_array_Matrix" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.multidimentional_array_Matrix" />
+    <configuration name="vid15_List" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid15_List" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vid11_array" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid11_array" />
+    <configuration name="vid16_more_on_list" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid16_more_on_list" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +98,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vid9_break_statement" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid9_break_statement" />
+    <configuration name="vid17_map" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid17_map" />
+      <module name="scala_end_to_end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaForBigenner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vid17_map_second_part" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaForBigenner.vid17_map_second_part" />
       <module name="scala_end_to_end" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.scalaForBigenner.multidimentional_array_Matrix" />
-        <item itemvalue="Application.multidimentional_array_Matrix" />
-        <item itemvalue="Application.vid11_array" />
-        <item itemvalue="Application.vid9_break_statement" />
-        <item itemvalue="Application.nested_function" />
+        <item itemvalue="Application.vid17_map_second_part" />
+        <item itemvalue="Application.vid17_map" />
+        <item itemvalue="Application.vid16_more_on_list" />
+        <item itemvalue="Application.vid15_List" />
+        <item itemvalue="Application.vid14_Range_array" />
       </list>
     </recent_temporary>
   </component>
